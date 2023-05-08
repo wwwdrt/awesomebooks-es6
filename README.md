@@ -163,12 +163,6 @@ GitHub pages
 - Twitter: [@drtcode](https://twitter.com/drtcode)
 - Linktree: [@drtcode](https://linktr.ee/drtcode)
 
-👤 **Moyasi**
-
-- GitHub: [@MoyasiGinko](https://github.com/MoyasiGinko)
-- Twitter: [@MoyasiGinko](https://twitter.com/moyasi_ginko)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahmudur-rahman-a8a151257)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
