@@ -77,7 +77,7 @@ refactored it to ES6 syntax.
 
 > Checkout the project 👇
 
-- [Live Demo Link](https://wwwdrt.github.io/awesomebooks/)
+- [Live Demo Link](https://wwwdrt.github.io/awesomebooks-es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
