@@ -60,8 +60,13 @@ class Books {
       const author = document.querySelector('#author');
 
       if (title.value.trim() === '' || author.value.trim() === '') {
-        // eslint-disable-next-line no-alert
-        alert('Please enter a title and author');
+        // eslint-disable-next-line no-undef
+        Swal.fire({
+          title: 'Error',
+          text: 'Please enter a title and author',
+          icon: 'error',
+          button: 'OK',
+        });
         return;
       }
 
